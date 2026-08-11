@@ -7,6 +7,32 @@ Open any project, run one command, and get a structured, AI-generated map of fol
 Helps developers quickly understand unfamiliar codebases.
 
 ---
+New User 
+Updated **`README.md`** for GitHub with a full step-by-step guide for new users.
+
+### What’s included
+
+1. **Prerequisites** — Node, npm, VS Code  
+2. **Step 1** — Clone / download  
+3. **Step 2** — `bash install.sh` or manual `npm install` + webview build + compile  
+4. **Step 3** — Open in VS Code  
+5. **Step 4** — Press **F5** (Extension Development Host)  
+6. **Step 5** — Analyze Project + API key  
+7. **Step 6** — Explore Architecture / Dependencies / Files / AI Summary  
+
+Also covered:
+
+- All commands  
+- AI settings & other providers  
+- Privacy  
+- Troubleshooting table  
+- Project structure  
+- Example workflow  
+- License & support  
+
+Path: `ai-codebase-mapper/README.md`  
+
+Replace `<YOUR_GITHUB_REPO_URL>` with your real repo URL after you push.
 
 ## Features
 
@@ -203,3 +229,4 @@ Issues and PRs are welcome. Keep modules small, prefer explicit types, and avoid
 ## License
 
 MIT
+
