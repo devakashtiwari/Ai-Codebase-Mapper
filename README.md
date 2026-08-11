@@ -11,7 +11,7 @@ Helps developers quickly understand unfamiliar codebases.
 ## Features
 
 - **Workspace scanning** with sensible ignore rules (`node_modules`, `.git`, `dist`, `.env`, lockfiles, etc.)
-- **Import/export analysis** for TypeScript, JavaScript, Python, Java, Go, Rust, C#
+- **Import/export analysis** for TypeScript, JavaScript
 - **Dependency graph** (internal + external packages)
 - **Circular dependency detection**
 - **AI architecture analysis** (OpenAI-compatible API)
